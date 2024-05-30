@@ -8,9 +8,17 @@ Whether it’s a web app, a data visualization, or a fun side project, I enjoy t
 My tech stack includes:
 
 Languages: C,C++,Python
+
+
 Frontend: HTML, CSS, React
+
+
 Backend: Node.js
+
+
 Databases: MySQL
+
+
 Tools: Git, VS Code
 
 Let’s Connect
