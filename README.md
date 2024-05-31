@@ -11,7 +11,7 @@ Whether it’s a web app, a data visualization, or a fun side project, I enjoy t
 Languages: C,C++,Python
 
 
-Frontend: HTML, CSS, Javascript 
+Development: HTML, CSS, Javascript 
 
 
 Databases: MySQL
