@@ -10,7 +10,7 @@ I am a passionate software developer currently pursuing my **Master of Computer 
 
 - 🔭 **Currently working on:** My College Final Year Project (Currently in stealth mode 🤫)
 - 🌱 **Currently learning:** Java Spring Boot & Backend Architecture
-- 💼 **Focus:** Creating seamless web experiences with React, Tailwind, and Modern JavaScript.
+- 💼 **Focus:** Creating seamless web experiences with React, Tailwind, and Modern JavaScript and solvng Questions daily.
 - 💬 **Ask me about:** Frontend Development, React.js, and Java.
 
 ---
